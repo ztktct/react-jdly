@@ -1,6 +1,6 @@
 // 暂时未用flux/redux
 
-export const websit = 'http://192.16.137.1:3001/api';
+export const websit = 'http://183.232.236.40:3001/api';
 
 // 存放收藏数据
 let collectData = window.localStorage.getItem('JDLY_COLLECTED_DATA') || '[]';

@@ -3,7 +3,7 @@ import IconButton from 'material-ui/IconButton';
 import ActionFavorite from 'material-ui/svg-icons/action/favorite';
 import ActionFavoriteBorder from 'material-ui/svg-icons/action/favorite-border';
 import {Card, CardMedia, CardText} from 'material-ui/Card';
-import {hashHistory, Link} from 'react-router';
+import {Link} from 'react-router';
 
 import {collect, setCurrentItem} from '../../store';
 

@@ -146,7 +146,6 @@ class ContentPage extends Component {
                     let image = {};
                     let imgsource = new Image();
                     imgsource.src = img;
-                    console.log(typeof _self.state.imgListsObjs.push);
                     imgsource.onload=function(){
                         image = {
                             src: img,

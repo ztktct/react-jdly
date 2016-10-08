@@ -5,7 +5,7 @@ import Navigationleft from 'material-ui/svg-icons/navigation/arrow-back';
 import {hashHistory} from 'react-router';
 import CardLists from '../CardLists';
 
-import {collect, getCollected} from '../../store';
+import { getCollected} from '../../store';
 import Lazyload from '../../lib/lazyload';
 
 let lazy=null;  // 懒加载实例
