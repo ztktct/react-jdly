@@ -1,3 +1,7 @@
+[测试地址](http://jdly.ztktct.tk)
+
+[App 下载地址](http://jdly.ztktct.tk/android.apk)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.  
